@@ -6,6 +6,9 @@ body {
 a {
     color: #9B1C29;
 }
+a:visited {
+    color: #5e1119;
+}
 
 #banner {
     background: url("vector_logo.svg");
