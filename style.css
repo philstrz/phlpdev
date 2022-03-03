@@ -16,6 +16,7 @@ a {
 }
 
 p {
+    padding: 64px;
     text-align: center;
     font-family: "Anonymous Pro", monospace;
     font-size: 32px;
