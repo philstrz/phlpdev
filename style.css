@@ -1,0 +1,22 @@
+body {
+    background-color: #080C08;
+    color: #8D99AE;
+}
+
+a {
+    color: #9B1C29;
+}
+
+#banner {
+    background: url("vector_logo.svg");
+    width: 100%;
+    min-height: 256px;
+    background-repeat: no-repeat;
+    background-position: center center, center top;
+}
+
+p {
+    text-align: center;
+    font-family: "Anonymous Pro", monospace;
+    font-size: 32px;
+}
