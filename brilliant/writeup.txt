@@ -6,4 +6,4 @@ In optics, the obvious topics this could be extended to are refraction and lense
 
 More generally, the interactive could be extended to collisions; reflecting light from a mirror is similar to an elastic collision with an infinitely massive body. It could be extended to all manner of transformations in two dimensions by creating new types of nodes; adding a way to convert to/from matrices would make it a useful tool in Linear Algebra. 
 
-Please let me know if you have any questions are need me to change anything. I hope it impresses or, at least, doesn't disappoint.
+Please let me know if you have any questions or need me to change anything. I hope it impresses or, at least, doesn't disappoint.
