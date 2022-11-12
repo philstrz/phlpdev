@@ -4,6 +4,6 @@ There are plenty of features that could be added. Currently, the interactive doe
 
 In optics, the obvious topics this could be extended to are refraction and lenses. For now, the interactive uses vector arithmetic to reflect points, but refracting shouldn't be much more difficult. The line-of-sight logic could be used, with refractions, to create lens objects and project virtual images. Similarly, it would be interesting to draw nonlinear mirrors, like parabolic reflectors, and cast images as seen by an observer through those mirrors.
 
-More generally, the interactive could be extended to collisions; reflecting light from a mirror is similar to an elastic collision with an infinitely massive body. It could be extended to all manner of transformations in two dimensions by creating new types of nodes. Adding a way to convert to/from matrices would make it a useful tool in Linear Algebra.
+More generally, the interactive could be extended to collisions; reflecting light from a mirror is similar to an elastic collision with an infinitely massive body. It could be extended to all manner of transformations in two dimensions by creating new types of nodes; adding a way to convert to/from matrices would make it a useful tool in Linear Algebra. 
 
 I hope it impresses or, at least, doesn't disappoint.
