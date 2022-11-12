@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <title>
+      Project: Reflection by Phil Strzelecki
+    </title>
+    <!-- <link rel="stylesheet" href="style.css"> -->
+    
+    <!-- Get D3 -->
+    <script src="https://d3js.org/d3.v7.min.js" charset="utf-8"></script>
+    
+    <!-- Scripts -->
+    <script src="setup.js"></script>
+    <script src="mirrorInteractive.js"></script>
+    <script src="objects.js"></script>
+    <script src="mirror.js"></script>
+    <script src="vectorMath.js"></script>
+    <script src="lineOfSight.js"></script>
+  </head>
+
+  <body>
+    <p>
+      In the first interactive, we have four visible elements: 
+      an object in red (filled) and its image (hollow), an observer in black, and a blue line representing a mirror.
+      <br><br>
+      By clicking and dragging, try moving the object (red) or observer (black).
+      Click on the image (red, hollow) to draw a line-of-sight to the image and to the original object.
+    </p>
+    <svg width="800" height="600" id="canvas1"></svg>
+    <p>
+      In the second interactive, we have two mirrors, perpendicular to each other.
+      <br><br>
+      Once again, try moving the object and observer and clicking on any of the images.
+    </p>
+    <svg width="800" height="600" id="canvas2"></svg>
+    <p>
+      In the third interactive, we again have two mirrors, but this time in parallel.
+      <br><br>
+      Again, try moving the object and observer and clicking on any of the images.
+    </p>
+    <svg width="800" height="600" id="canvas3"></svg>
+    <p>
+      What if we combine the two?
+    </p>
+    <svg width="800" height="600" id="canvas4"></svg>
+    <p>
+      Finally, what if the mirrors are neither parallel nor perpendicular?
+      <br><br>
+      This time, in addition to moving the object and observer and drawing lines of sight, try dragging the ends of the mirrors around.
+    </p>
+    <svg width="800" height="600" id="canvas5"></svg>
+  </body>
+</html>
