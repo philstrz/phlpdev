@@ -1,0 +1,16 @@
+main {
+  color: black;
+  width: 800px;
+  margin: auto;
+  padding: 32px 32px;
+  background-color: #bbbbbb;
+}
+
+body {
+  background-color: #222222;
+}
+
+svg {
+  background-color: white;
+  margin: auto;
+}
